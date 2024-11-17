@@ -12,7 +12,7 @@ const deleteRouter = require('./routes/delete.route.js')
 const queryRouter = require('./routes/query.route.js')
 
 
-const dbURL = 'mongodb+srv://Jude:sknj.inc@api.es1rq.mongodb.net/?retryWrites=true&w=majority&appName=API'
+const dbURL = 'your-mongodb-url-here'
 console.log('Connecting to Db....')
 mongoose.connect(dbURL)
   .then((result) => {
