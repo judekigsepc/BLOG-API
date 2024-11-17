@@ -234,7 +234,7 @@ The API uses consistent error handling, with clear messages for debugging.
 
 ---
 
-## Pro Tips (Though am planning all these features when i get time)
+## Pro Tips (Though am planning to add all these features when i get time)
 
 ### Authentication:  
 
@@ -269,7 +269,9 @@ const dbUrl = process.env.DB_URL;
 
 - Add pagination for `getAll` endpoints to handle large datasets.  
 - Implement rate limiting to protect the API from abuse.  
-- Include detailed API metrics for monitoring.  
+- Include detailed API metrics for monitoring.
+
+Note: I created this api to waste a little time, but if i get 10 stars I will make it the best it can be. (I dont think anyone will even read this far) 😅
 
 ---
 
