@@ -271,10 +271,11 @@ const dbUrl = process.env.DB_URL;
 - Implement rate limiting to protect the API from abuse.  
 - Include detailed API metrics for monitoring.
 
-Note: I created this api to waste a little time, but if i get 10 stars I will make it the best it can be. (I dont think anyone will even read this far) 😅
+
 
 ---
 
 ## Feedback  
 
-We'd love to hear your thoughts on this API! If you have suggestions for improvements or encounter issues, feel free to raise them in the project's GitHub repository. 🚀  
+I'd love to hear your thoughts on this API! If you have suggestions for improvements or encounter issues, feel free to raise them in the project's GitHub repository. 🚀  
+Honestly ,I created this api to waste a little time, but if i get 10 stars I will make it the best it can be. (I dont think anyone will even read this far) 😅
