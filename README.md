@@ -234,7 +234,7 @@ The API uses consistent error handling, with clear messages for debugging.
 
 ---
 
-## Pro Tips  
+## Pro Tips (Though am planning all these features when i get time)
 
 ### Authentication:  
 
@@ -276,7 +276,3 @@ const dbUrl = process.env.DB_URL;
 ## Feedback  
 
 We'd love to hear your thoughts on this API! If you have suggestions for improvements or encounter issues, feel free to raise them in the project's GitHub repository. 🚀  
-
---- 
-
-This version uses GitHub-flavored Markdown correctly and highlights the code sections effectively. 🚀
