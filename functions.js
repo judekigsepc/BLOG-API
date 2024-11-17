@@ -1,9 +1,5 @@
 import axios from 'axios'
 
-//ACCEPTABLE ITEMS NAMES ARE ONLY:
-//post,comment,user,author
-//These parameters should be in singular
-
 const apiUrl = 'http://localhost:3000'
 const validItems = ['post','comment','user','author']
 
