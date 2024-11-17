@@ -1,6 +1,3 @@
-Here’s your **Blog API Documentation** with properly flagged code snippets for GitHub's `README.md` file using Markdown's code fencing.
-
----
 
 # Blog API Documentation  
 
