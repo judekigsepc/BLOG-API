@@ -18,6 +18,7 @@ cd blog-api
 
 Install the required dependencies:  
 
+
 ```bash
 npm install
 ```
@@ -50,6 +51,8 @@ http://localhost:3000
 ```
 
 ---
+
+From here you can checkout the functions.js api documentation, much better if your working with react or vanila js on the frontend
 
 ### Routes Overview  
 
