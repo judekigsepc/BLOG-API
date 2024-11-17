@@ -24,7 +24,7 @@ npm install
 
 Set up your MongoDB Atlas connection:  
 
-1. Open the `config.js` file (or `.env` if using environment variables).  
+1. Open the `app.js` file (or `.env` if using environment variables).  
 2. Update the `dbUrl` variable with your MongoDB connection string:  
 
 ```javascript
