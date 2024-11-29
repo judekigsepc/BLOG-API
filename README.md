@@ -1,3 +1,4 @@
+Honestly ,I created this api to waste a little time, but if i get 10 stars I will make it the best it can be.
 
 # Blog API Documentation  
 
